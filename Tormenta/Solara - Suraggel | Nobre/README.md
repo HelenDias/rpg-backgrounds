@@ -2,12 +2,13 @@
 
 ## Índice
 
-1. [Informações básicas](#informações-básicas)
-2. [Atributos](#atributos)
-3. [Características](#características)
-4. [Personalidade e background](https://github.com/HelenDias/rpg-backgrounds/blob/main/Tormenta/Solara%20-%20Suraggel%20%7C%20Nobre/Background.md)
+1. [Aparência](#aparência)
+2. [Informações básicas](#informações-básicas)
+3. [Atributos](#atributos)
+4. [Características](#características)
+5. [Personalidade e background](https://github.com/HelenDias/rpg-backgrounds/blob/main/Tormenta/Solara%20-%20Suraggel%20%7C%20Nobre/Background.md)
 
-## Solara Lureene Le Carter De La Valliere
+## Aparência
 
 <img src="https://user-images.githubusercontent.com/19653346/115972471-ce17bd00-a524-11eb-95ac-78e499544e9d.jpeg" width="600">
 
