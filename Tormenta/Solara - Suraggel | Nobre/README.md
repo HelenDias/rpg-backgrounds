@@ -18,7 +18,7 @@ Artist social medias: [instagram](https://www.instagram.com/mioree_/), [twitter]
 
 | Nome | Raça | Classe | Alinhamento | Nível |
 | :-: | :-: | :-: | :-: | :-: |
-| Solara | Suraggel | Nobre | N/B* | 2 |
+| Solara | Suraggel | Nobre | C/B* | 2 |
 
 ## Atributos
 
@@ -35,6 +35,6 @@ Artist social medias: [instagram](https://www.instagram.com/mioree_/), [twitter]
 
 ---
 
-###### *N/B = Neutro/Bom
+###### *N/B = Caótico/Bom
 ###### *PV = Pontos de Vida
 ###### *PM = Pontos de Mana
