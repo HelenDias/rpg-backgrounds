@@ -12,6 +12,8 @@
 
 <img src="https://user-images.githubusercontent.com/19653346/115972471-ce17bd00-a524-11eb-95ac-78e499544e9d.jpeg" width="600">
 
+Artist social medias: [instagram](https://www.instagram.com/mioree_/), [twitter](https://twitter.com/mioree_/), [twitch](https://www.twitch.tv/Mioree), [artstation](https://www.artstation.com/mioree)
+
 ## Informações básicas
 
 | Nome | Raça | Classe | Alinhamento | Nível |
